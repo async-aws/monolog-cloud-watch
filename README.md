@@ -3,7 +3,7 @@
 ![](https://github.com/async-aws/monolog-cloud-watch/workflows/Tests/badge.svg?branch=master)
 ![](https://github.com/async-aws/monolog-cloud-watch/workflows/BC%20Check/badge.svg?branch=master)
 
-CloudWatch Logs adapter for Monolog version 1 and 2.
+CloudWatch Logs adapter for Monolog version 1, 2 and 3.
 
 This package is heavily inspired by [maxbanton/cwh](https://github.com/maxbanton/cwh).
 
